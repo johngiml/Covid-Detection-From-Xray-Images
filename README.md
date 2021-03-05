@@ -1,6 +1,6 @@
 # Covid-Detection-From-Xray-Images
 Hello, 
-This is a repository for detecting Covid-19 from X-ray images. We need three types of X-ray images. This detection is based on anteroposterior x-ray images. 
+This is a repository for detecting Covid-19 from X-ray images. We need three types of X-ray images. This detection is based on anteroposterior x-ray images. The details of the performance of CNN architectures and all the steps I went through are given in 
 
 1. x ray images with COVID (anteroposterior pics)
 2. x ray images without COVID (anteroposterior pics)
