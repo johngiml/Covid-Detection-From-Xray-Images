@@ -11,3 +11,8 @@ Please, set k as 5 (k=5) for k-fold and comment out the for loop with the end.
 I left a tiny comment on this. 
 
 If anything does not work, please, email me at johnkm37@gmail.com
+
+To obtain sample X-ray images with COVID-19, I suggest you visit Dr. Joseph Cohen's Github website: 
+https://github.com/ieee8023/covid-chestxray-dataset 
+
+I appreciate you reading this. 
